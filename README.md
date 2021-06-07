@@ -1,3 +1,6 @@
+- 圖片上遮罩尚未完成
+- 只做了Desktop版,RWD尚未學習
+
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
